@@ -81,8 +81,8 @@ Estes dados públicos fazem parte do Airbnb e a fonte original pode ser encontra
 
 ### Página 1
 
-![]()
+![](Dashboards/Hóspedes e anfitriões/Imagens/Tela 1.jpg)
 
 ### Página 2
 
-![]()
+![](Dashboards/Hóspedes e anfitriões/Imagens/Tela 2.jpg)
