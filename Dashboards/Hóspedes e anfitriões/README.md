@@ -81,8 +81,8 @@ Estes dados públicos fazem parte do Airbnb e a fonte original pode ser encontra
 
 ### Página 1
 
-![](Dashboards/Hóspedes e anfitriões/Imagens/Tela 1.jpg)
+![](https://github.com/Renan-Bandeira/Dashboards-PowerBI/blob/main/Dashboards/H%C3%B3spedes%20e%20anfitri%C3%B5es/Imagens/Tela%201.jpg)
 
 ### Página 2
 
-![](Dashboards/Hóspedes e anfitriões/Imagens/Tela 2.jpg)
+![](https://github.com/Renan-Bandeira/Dashboards-PowerBI/blob/main/Dashboards/H%C3%B3spedes%20e%20anfitri%C3%B5es/Imagens/Tela%202.jpg)
